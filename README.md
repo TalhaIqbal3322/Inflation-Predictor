@@ -55,9 +55,12 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+-----
 📩 Contact
-
+----
 For collaboration or inquiries, please connect via GitHub or email.
+
 Developer: Talha Iqbal
+
 Email: talhaiqbal.digitalnexus@gmail.com
 
