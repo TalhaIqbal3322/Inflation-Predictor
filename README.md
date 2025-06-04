@@ -1,8 +1,9 @@
-#📊 Inflation Predictor – ML-Based Forecasting App
+# 📊 Inflation Predictor – ML-Based Forecasting App
 
 A fully interactive, machine-learning-powered web application built with Streamlit to predict inflation trends. Users can upload custom datasets, select models, define prediction years, and view powerful visualizations.
 
 ------
+
 🌐 Live Demo:(https://inflation-predictor.streamlit.app/)
 
 ------
