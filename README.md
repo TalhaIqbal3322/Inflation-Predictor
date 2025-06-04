@@ -18,7 +18,7 @@ A fully interactive, machine-learning-powered web application built with Streaml
 
 ✅ Interactive Visuals – Built-in Plotly charts and heatmaps
 
-
+------
 🔧 Tech Stack
 ------
 Frontend/UI: Streamlit
@@ -31,20 +31,28 @@ Visualizations: Plotly, Seaborn, Matplotlib
 
 Language: Python 3.x
 
-
+------
 📂 Folder Structure
 -------
 inflation-predictor/
+
 ├── app.py              # Main Streamlit application
+
 ├── requirements.txt    # Python dependencies
+
 ├── sample_dataset.csv  # Optional sample input
+
 └── README.md           # Project documentation
 
+-----
 📥 How to Run
 -----
 git clone https://github.com/yourusername/inflation-predictor.git
+
 cd inflation-predictor
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 📩 Contact
