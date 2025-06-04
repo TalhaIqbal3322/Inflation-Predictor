@@ -2,8 +2,8 @@
 A fully interactive, machine-learning-powered web application built with Streamlit to predict inflation trends. Users can upload custom datasets, select models, define prediction years, and view powerful visualizations.
 
 🌐 Live Demo:(https://inflation-predictor.streamlit.app/)
-------
 
+------
 🚀 Features
 -----
 ✅ Custom Dataset Upload – Upload your own .csv with economic indicators
@@ -64,3 +64,4 @@ Developer: Talha Iqbal
 
 Email: talhaiqbal.digitalnexus@gmail.com
 
+-----
