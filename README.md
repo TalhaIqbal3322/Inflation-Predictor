@@ -5,7 +5,7 @@ A fully interactive, machine-learning-powered web application built with Streaml
 ------
 
 🚀 Features
-
+-----
 ✅ Custom Dataset Upload – Upload your own .csv with economic indicators
 
 ✅ Data Overview – Auto summary, missing values, and correlation heatmap
@@ -17,10 +17,10 @@ A fully interactive, machine-learning-powered web application built with Streaml
 ✅ Feature Importance – Visual breakdown of impactful variables
 
 ✅ Interactive Visuals – Built-in Plotly charts and heatmaps
-------
+
 
 🔧 Tech Stack
-
+------
 Frontend/UI: Streamlit
 
 ML Models: Scikit-learn (Random Forest, Gradient Boosting)
@@ -30,18 +30,18 @@ Data Handling: Pandas, NumPy
 Visualizations: Plotly, Seaborn, Matplotlib
 
 Language: Python 3.x
--------
+
 
 📂 Folder Structure
-
+-------
 inflation-predictor/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 ├── sample_dataset.csv  # Optional sample input
 └── README.md           # Project documentation
------
-📥 How to Run
 
+📥 How to Run
+-----
 git clone https://github.com/yourusername/inflation-predictor.git
 cd inflation-predictor
 pip install -r requirements.txt
